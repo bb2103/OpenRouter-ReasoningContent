@@ -45,3 +45,7 @@ coverage/
 # 本地开发文件
 .tmp/
 .temp/
+
+
+.cursor
+package-lock.json
